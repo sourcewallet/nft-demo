@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x492d2254aB55D5172504f0F3DB572b48b903CF8e",
+  "SCAN_LINK": "https://goerli.etherscan.io/token/0x492d2254ab55d5172504f0f3db572b48b903cf8e",
+  "NETWORK": {
+    "NAME": "goerli",
+    "SYMBOL": "ETH",
+    "ID": 5
+  },
+  "NFT_NAME": "Careless Rabbit",
+  "SYMBOL": "CRT",
+  "MAX_SUPPLY": 666,
+  "WEI_COST": 13,
+  "DISPLAY_COST": 0.00,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/zh-CN/collection/careless-rabbit",
+  "SHOW_BACKGROUND": true
+}
